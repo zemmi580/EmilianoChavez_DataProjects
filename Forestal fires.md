@@ -22,3 +22,5 @@ As you can see the number of forestal fires has decrease, and if we see the tota
 
 ![Total of forestal fires through the years](https://github.com/zemmi580/EmilianoChavez_DataProjects/assets/165099619/a0c963ef-35bc-4034-b633-d8bab6f5df91)
 
+To be honest, this does not tell us anything. We can see a slightly tendecy to the decrease of fires, but it is honestly to slight to give a conclusion. 
+
