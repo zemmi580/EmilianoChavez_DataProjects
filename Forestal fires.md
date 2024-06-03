@@ -18,9 +18,16 @@ Here is the comparation between 1991 and 2023:
 
 ![Comparation of total forestal fires](https://github.com/zemmi580/EmilianoChavez_DataProjects/assets/165099619/b1e93874-09f0-4104-ad48-c31c8b21e6d9)
 
+
 As you can see the number of forestal fires has decrease, and if we see the total number of fires through the years:
 
 ![Total of forestal fires through the years](https://github.com/zemmi580/EmilianoChavez_DataProjects/assets/165099619/a0c963ef-35bc-4034-b633-d8bab6f5df91)
 
-To be honest, this does not tell us anything. We can see a slightly tendecy to the decrease of fires, but it is honestly to slight to give a conclusion. 
+To be honest, this does not tell us anything. We can see a slightly tendecy to the decrease of fires, but it is honestly to slight to give a conclusion. But, as we know the temperature have been riseing  from year to year. Here you can see a comparation between three states from Mexico (north, center, south) throw the years 
+![Grafica](https://github.com/zemmi580/EmilianoChavez_DataProjects/assets/165099619/a0ab86fd-5f00-413c-bfe6-eb7d46eb31b6)
 
+Lastly, let's compare the population and the total of forestal fires from each state: 
+![Forestal fires and population by states](https://github.com/zemmi580/EmilianoChavez_DataProjects/assets/165099619/28f6dc8f-b5f2-41de-800e-513bc88ee812)
+As we can see, the states with a higher population tend to have a higher number of forestal fires, but that is not completly true for some states. But at least, we can say that the population from each state is related in some level with the forestal fires.
+
+As a partial conclusion, we can say that the number of forestal fires are not completly related with the temperatures, not even increase in the temperatures have shown a strong relationship with the fires. But we can see that most part of the forestal fires are created in states with a higher population. As a recomendation to follow up this project, I can recommend to analyze how the area of forests relate with the fires.  
