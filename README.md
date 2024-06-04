@@ -1,4 +1,3 @@
-A continuación se presentan una compilación de algunos de mis proyectos de análisis de datos que he realizado. Esto con el proposito de mostrar mis habilidades técnicas en la rama utilizando principalmente Python(incluyendo sus librerias). También presentaré proyectos utilizando R y SQL. Última actualización Abril-2024
+Below is a compilation of some of the data analysis projects I have carried out. The purpose is to showcase my technical skills in the field, primarily using Python (including its libraries). I will also present projects using R and SQL. Last updated june-2024.
 
-Un poco sobre mi.
-Ingeniero Físico con un gusto por la programación, el analisis de datos y la ciencia. Aficionado a aprender nuevas cosas.
+A little about me. I am a Physicist Engineer with a passion for programming, data analysis, and science. I am always eager to learn new things
